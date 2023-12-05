@@ -6,6 +6,8 @@ logs
 
 # Firebase cache
 .firebase/
+.firebaserc
+firebase.json
 
 # Work files cache
 workfiles

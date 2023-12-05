@@ -1,0 +1,29 @@
+/*
+   TOC:
+   1. Buttons
+
+===================================================================== */
+
+/* ------------------------------------------------------------------ */
+/* 1. Start Buttons
+/* ------------------------------------------------------------------ */
+.button--download-v2 {
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 40px;
+    margin: 10px 20px;
+    border-radius: 30px;
+    background-image: linear-gradient(45deg, #444444 0%, #424242 50%, #2B2B2B 100%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    box-shadow: 0 16px 32px 0 rgb(68, 68, 68);
+    transition: .5s;
+}
+.button--download-v2:hover {
+    box-shadow: 0 0 0 0 rgb(194, 194, 194);
+    background-position: 0 0;
+}

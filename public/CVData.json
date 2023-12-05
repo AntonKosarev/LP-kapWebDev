@@ -1,0 +1,91 @@
+{
+  "main": {
+    "name":"Web Developer",
+    "description": [
+      "Website development is my passion.",
+      "My goal is to create beautiful and functional websites using the best tools."
+    ],
+    "image":"profilepic.jpg",
+    "bio":"I started my coding journey from 2016, and now I am working full time. I have experience with full web development, including Frontend and Backend. But what I'm most obsessed with is React's functionality, which allows creating modern and user-friendly web applications. I am confident that the ReactJS tools will allow us to implement your wizard design ideas or application suggestions.",
+    "contactmessage":"",
+    "email": "kapwebdev@gmail.com",
+    "phone": "",
+    "github":"https://github.com/AntonKosarev",
+    "project":"",
+    "address":{
+      "street":"",
+      "city":"Kharkiv",
+      "state":"",
+      "zip": ""
+    },
+    "website": "https://kapwebdev.web.app/",
+    "downloadCV":"./CV_Kosarev_Anton_Web-developer.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/antonkosarev/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AntonKosarev",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "skills":[
+      {
+        "name":"JavaScrip",
+        "level":"70%",
+        "color": "#efd81d"
+      },
+      {
+        "name":"Webpack",
+        "level":"60%",
+        "color": "#939393"
+      },
+      {
+        "name":"Gulp",
+        "level":"80%",
+        "color": "#e34848"
+      },
+      {
+        "name":"React",
+        "level":"60%",
+        "color": "#4ed0f3"
+      },
+      {
+        "name":"PHP",
+        "level":"60%",
+        "color": "#4d588e"
+      },
+      {
+        "name":"Yii",
+        "level":"50%",
+        "color": "#e6a050"
+      },
+      {
+        "name":"WordPress",
+        "level":"50%",
+        "color": "#55aacc"
+      },
+      {
+        "name":"OpenCart",
+        "level":"80%",
+        "color": "#33c1f1"
+      },
+      {
+        "name":"CSS",
+        "level":"90%",
+        "color": "#254bdd"
+      },
+      {
+        "name":"HTML",
+        "level":"90%",
+        "color": "#ec7531"
+      }
+    ]
+  }
+}
